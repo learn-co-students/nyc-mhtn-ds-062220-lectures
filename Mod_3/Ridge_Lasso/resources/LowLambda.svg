@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   viewBox="0 0 504 390"
+   height="390"
+   width="504"
+   id="svg3822"
+   version="1.1">
+  <desc>Histogram of a model's weights with a mean of zero that is somewhere between a flat distribution and a normal distribution.</desc>
+  <metadata
+     id="metadata3828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3826" />
+  <image
+     y="22"
+     x="0"
+     id="image3830"
+     xlink:href="data:image/png;base64,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 3oLjhx9+2OBH8ARvwfHDDz8z2BA8wZvBDz/88CN4grfgLggz+OGHH8ETvAXHDz9s8MOP4AneguOH nxnnxo/gCd6C44cffmbwI3iC9+bHDz/88CN4grfgZrDBDz/8CJ7gLbgLwoxz44cfwRO8BccPPzP4 4UfwBG/B8cMPP2zwI3iCt+D44YefGYIneII3gx9++OFH8ARvwV0QZvDDDz+CJ3gLjh9+2OCHH8ET vAXHDz8zzo0fwRO8BccPP/zM4EfwBO/Njx9++OFH8ARvwc1ggx9++BE8wVtwF4QZ58YPP4IneAuO H35m8MOP4AneguOHH35m8CN4grfg+OGHnxmCJ3iCN4MffvjhR/AEb8FdEGbwww8/gid4C44fftjg hx/BE7wFxw8/M86NH8ETvAXHDz/8zOBH8ATvzY8ffvjhR/AEb8HNYIMffvgRPMFbcBeEGefGDz+C J3gLjh9+ZvDDj+AJ3oLjhx9+ZvAjeIK34Pjhh58Zgid4gjeDH3744UfwBG/BXRBm8MMPP4IneAuO H37Y4IcfwRO8BccPPzPOjR/BPzyvXv0WXrz4cLDPn1+Hx4/ftWAOtapWoa63xcyU9nrxw8+Mc+M3 fCb+R8CiBC8iIiIELyIiQvAiIiJC8CIiIkLwIiIiQvAiIiJC8CIiIkLwIiIiBC8iIiIELyIiIgQv IiIiBC8iIiIELyIiQvAiIiJC8CIiIkLwIiIiQvAiIiJC8CIiIkLwIiIiBC8iIiIELyIiIgQvIiIi BC8iIiIELyIiQvAiIiJC8CIiIkLwIiIiQvAiIiJC8CIiIkLwIiIiBC8iIiIELyIiIgQvIiIiBC8i IiIELyIiQvAiIiJC8CIiIkLwIiIiQvAiIiIyLP8DsnE+bqK0xCMAAAAASUVORK5CYII= "
+     preserveAspectRatio="none"
+     height="368"
+     width="504" />
+  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3848"
+     xml:space="preserve"><flowRegion
+       id="flowRegion3850"><rect
+         y="99.796608"
+         x="-54.576271"
+         height="168.40678"
+         width="29.627119"
+         id="rect3852" /></flowRegion><flowPara
+       id="flowPara3854">Weihght</flowPara></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3856"
+     xml:space="preserve"><flowRegion
+       id="flowRegion3858"><rect
+         y="132.54237"
+         x="-63.932205"
+         height="143.45763"
+         width="51.457626"
+         id="rect3860" /></flowRegion><flowPara
+       id="flowPara3862">Weight Frequency</flowPara></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3872"
+     xml:space="preserve"><flowRegion
+       style="font-size:18.66666603px"
+       id="flowRegion3874"><rect
+         style="font-size:18.66666603px"
+         y="102.91525"
+         x="-53.016949"
+         height="162.16949"
+         width="67.05085"
+         id="rect3876" /></flowRegion><flowPara
+       id="flowPara3878" /></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3882"
+     xml:space="preserve"><flowRegion
+       id="flowRegion3884"><rect
+         y="98.237289"
+         x="-46.779659"
+         height="159.05084"
+         width="60.81356"
+         id="rect3886" /></flowRegion><flowPara
+       id="flowPara3888">Weight Frequ4enc</flowPara></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3890"
+     xml:space="preserve"><flowRegion
+       style="font-size:18.66666603px"
+       id="flowRegion3892"><rect
+         style="font-size:18.66666603px"
+         y="88.881355"
+         x="-45.220341"
+         height="204.27118"
+         width="51.457626"
+         id="rect3894" /></flowRegion><flowPara
+       id="flowPara3896" /></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3898"
+     xml:space="preserve"><flowRegion
+       id="flowRegion3900"><rect
+         y="369.55933"
+         x="68.610168"
+         height="96.677963"
+         width="369.55933"
+         id="rect3902" /></flowRegion><flowPara
+       id="flowPara3904" /></flowRoot>  <flowRoot
+     transform="translate(0,22)"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3922"
+     xml:space="preserve"><flowRegion
+       id="flowRegion3924"><rect
+         y="82.644066"
+         x="-60.81356"
+         height="145.01695"
+         width="63.932205"
+         id="rect3926" /></flowRegion><flowPara
+       id="flowPara3928">Weight Frequency</flowPara></flowRoot>  <text
+     id="text4635"
+     y="33.525425"
+     x="141.93221"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="33.525425"
+       x="141.93221"
+       id="tspan4633">Distribution of Model Weights</tspan></text>
+  <text
+     id="text4639"
+     y="368.77966"
+     x="203.79662"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="368.77966"
+       x="203.79662"
+       id="tspan4637">Weight Value</tspan></text>
+  <text
+     transform="rotate(-90)"
+     id="text4643"
+     y="30.183231"
+     x="-290.5278"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       y="30.183231"
+       x="-290.5278"
+       id="tspan4641">Weight Frequency</tspan></text>
+</svg>
